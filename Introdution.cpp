@@ -18,5 +18,5 @@ int main (){
    mhs.nama = "Alvin";
    mhs.nilai= 99,99;
 
-   
+   mhs.print_data();
 }
